@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MahenID/MahenID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahen
 
-Here are some ideas to get you started:
+### Information Technology Student | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-MahenID-181717?style=for-the-badge&logo=github)](https://github.com/MahenID)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an Information Technology student interested in:
+
+- 🌐 Web Development
+- 📱 Mobile Development
+- 🎨 UI/UX
+- 🖥️ System Development
+- 🔐 Networking & Cyber Security
+
+Currently building projects using Flutter, Firebase, PHP,
+MySQL, JavaScript and other modern technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,php,js,html,css,python" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,git,github,vscode,figma,ubuntu" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🌱 Florapp | Plant marketplace built with Flutter & Firebase |
+| 💼 Central Saga | Software License Management Information System |
+| 🏠 Mahendra HomeLab | Personal website and local server project |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahenID&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahenID&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/MahenID">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Keep learning, keep building."
+
+</div>
