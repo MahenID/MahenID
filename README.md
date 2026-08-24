@@ -18,7 +18,7 @@ I'm an Information Technology student interested in:
 - 📱 Mobile Development
 - 🎨 UI/UX
 - 🖥️ System Development
-- 🔐 Networking & Cyber Security
+
 
 Currently building projects using Flutter, Firebase, PHP,
 MySQL, JavaScript and other modern technologies.
@@ -43,6 +43,7 @@ MySQL, JavaScript and other modern technologies.
     />
   </picture>
 </p>
+
 ## 🛠️ Tech Stack
 
 ### Languages
